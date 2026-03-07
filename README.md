@@ -1,6 +1,11 @@
 <h1 align = "center">Hello :>, I'm Amro, let's say I'm doing my best as of now.</h1>
-<h3 align = "center">A motivated Highschooler, Competitive Programmer, and Data Analyst</h3> 
-
+<h3 align = "center">I'm a motivated Highschooler, Competitive Programmer, and Data Analyst</h3> 
+<h3>Right now, I'm heavily busy with my final highschool year, and despite my readiness to pursue my passion for Computer Science, I must finish school first.
+I'm eagerly waiting for the time where I'm free of my school responsibilites, whether I do gap-year or not. My dream is to become a full-time Data Scientist, with broad knowledge across the other fields of computer science.</h3>
+<h3>Bjarne Stroustrup, the creator of C++, advised all Computer Science enthusiasts to NOT specialize in one thing and leave out everything else, hence why I'll be learning and progressing through everything while mainly focusing on my dream career. 
+I'm following in the steps of Linux Torvalds, the creator of Linux and Git. This man started making projects "for fun" (packed with dedication and relentless effort of course), which eventually turned into the backbone of the internet. Linux, the operating system used to run servers, billions of android phones, and even gaming PCs as of now, is a product of his sole dedication for building it.</h3>
+<h3> that's why I'll be following in his path, I'm not just inspired, this is truly what i want to accomplish whether I receive help or not. Those who are willing to work with me are all welcome, and ANY kind of help is appreciated. </h3>
+<h2> P.S. I'm gonna be constnantly filling my github with projects as I practice myself all the way up in programming, I may not have any right now, but I have everything planned and up-coming. </h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amro7X&label=Profile%20views&color=0e75b6&style=flat" alt="Amro7X" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amro7X" alt="Amro7X" /></a> </p> -->
